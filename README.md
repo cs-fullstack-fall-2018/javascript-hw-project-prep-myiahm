@@ -25,3 +25,4 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
 
 NOTE A KEY CONCEPT HERE:
 
+by calling the css bacground  tag changes the background color or the background in anyway  
