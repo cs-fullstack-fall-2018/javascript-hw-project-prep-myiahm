@@ -9,6 +9,8 @@ https://www.w3schools.com/js/js_timing.asp
 
 NOTE A KEY CONCEPT HERE:
 
+set time out events are set up with the first parameter being the function it wants to run and the second parameter being the miliseconds before funtcion is ran.
+
 
 ### Handling Events: 
 Chapter 6 - JavaScript Book and/or https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events
