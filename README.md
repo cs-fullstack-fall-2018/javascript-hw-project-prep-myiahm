@@ -17,6 +17,8 @@ Chapter 6 - JavaScript Book and/or https://developer.mozilla.org/en-US/docs/Lear
 
 NOTE A KEY CONCEPT HERE:
 
+event listners just make and event take place once added to something like a button or function and they can also be removed 
+
 
 ### CSS Background Images: 
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
